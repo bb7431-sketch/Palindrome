@@ -2,7 +2,7 @@
  * Hotel Booking Management System
  * Application Entry Point
  *
- * @author Alwyn Daniels
+ * @author Visshnu Perumal
  * @version 1.0
  */
 
